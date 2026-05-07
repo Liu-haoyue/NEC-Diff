@@ -28,8 +28,8 @@ To address these issues, we propose **NEC-Diff**, a noise-robust event–RAW com
 Our dataset contains:
 
 - Pixel-aligned low-light RAW frames
-- GT frames
 - Event streams
+- GT frames
 - Detection annotations
 - Semantic annotations
 
